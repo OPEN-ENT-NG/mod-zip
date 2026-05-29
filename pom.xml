@@ -10,9 +10,9 @@
   </parent>
   <groupId>fr.wseduc</groupId>
   <artifactId>mod-zip</artifactId>
-  <version>3.3.0</version>
+  <version>3.3-SNAPSHOT</version>
   <properties>
-    <web-utils.version>3.4.0</web-utils.version>
+    <web-utils.version>3.4-SNAPSHOT</web-utils.version>
     <jacksonDatabindVersion>2.15.2</jacksonDatabindVersion>
   </properties>
   <scm>
